@@ -1,2 +1,2 @@
-# WebJApp
-Sample of java web app
+# Liquor Store
+Simple java web application 

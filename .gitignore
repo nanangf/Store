@@ -1,2 +1,2 @@
 
-target/tomcat/logs/access_log.*
+target/tomcat/logs/*

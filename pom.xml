@@ -19,7 +19,7 @@
     </dependencies>
 
     <build>
-        <finalName>SampleServlet</finalName>
+        <finalName>LiquorStore</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.tomcat.maven</groupId>

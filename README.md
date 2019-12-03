@@ -1,2 +1,2 @@
-# Liquor Store test  #
+# Liquor Store test version  #
 ~Simple java web application 

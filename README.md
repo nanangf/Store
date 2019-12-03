@@ -1,2 +1,2 @@
-# Liquor Store
+# Liquor Store #
 ~Simple java web application 

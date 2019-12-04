@@ -1,2 +1,2 @@
-# STORE YAUDAHIYAh  #
+# STORE  #
 ~Simple java web application 

@@ -1,2 +1,2 @@
-# Liquor Store test version  #
+# STORE YAUDAHIYA  #
 ~Simple java web application 

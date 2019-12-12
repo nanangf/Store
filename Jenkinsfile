@@ -1,7 +1,7 @@
 node {
     checkout scm
 
-    docker.withRegistry('index.docker.io', 'dockerhub') {
+    docker.withRegistry('https://hub.docker.com', 'dockerhub') {
 
         def customImage = docker.build("hiyahiya/store")
 
